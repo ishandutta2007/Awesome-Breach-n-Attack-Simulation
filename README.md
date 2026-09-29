@@ -44,75 +44,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-- **[SafeBreach](https://www.safebreach.com/)**  
-
-  Continuous security validation platform with 20,000+ attack methods simulating known threat actor behaviors across the kill chain.
-
-
-
-- **[AttackIQ](https://www.attackiq.com/)**  
-
-  Breach and attack simulation platform built on MITRE ATT&CK, enabling continuous validation of security controls with automated attack scenarios.
-
-
-
-- **[Cymulate](https://cymulate.com/)**  
-
-  Extended security posture management platform with BAS, automated red teaming, and attack surface validation across email, web, and endpoint vectors.
-
-
-
-- **[Picus Security](https://www.picussecurity.com/)**  
-
-  Security validation platform combining BAS with threat intelligence, measuring detection and prevention effectiveness across security stack.
-
-
-
-- **[XM Cyber](https://www.xmcyber.com/)**  
-
-  Hybrid cloud exposure management platform simulating attack paths to critical assets, identifying and prioritizing remediation.
-
-
-
-- **[Pentera](https://www.pentera.io/)**  
-
-  Automated penetration testing platform simulating full attack chains from external and internal perspectives with actionable remediation.
-
-
-
-- **[Mandiant Security Validation](https://www.mandiant.com/)**  
-
-  Advanced attack simulations backed by real-world threat intelligence.
-
-
-
-- **[Scythe](https://scythe.io/)**  
-
-  Adversary emulation platform with threat intelligence-driven attack scenarios, purple team collaboration, and detection validation.
-
-
-
-- **[ThreatGen](https://www.threatgen.com/)**  
-
-  Cyber range and attack simulation platform with gamified red team/blue team exercises for training and validation.
-
-
-
-- **[Verodin](https://www.mandiant.com/)**  
-
-  Security instrumentation platform (now part of Mandiant) validating security controls through automated attack simulations.
-
-
-
-- **[NodeZero](https://www.horizon3.ai/)**  
-
-  Horizon3.ai's autonomous penetration testing platform discovering exploitable vulnerabilities and validating attack paths with proof-of-exploit.
-
-
-
-- **[Horizon3.ai](https://horizon3.ai/)**  
-
-  Autonomous penetration testing platform (NodeZero) discovering exploitable vulnerabilities and validating attack paths with proof-of-exploit.
+| Product | Description | Starting Pricing | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **[SafeBreach](https://www.safebreach.com/)** | Continuous security validation platform with 20,000+ attack methods simulating known threat actor behaviors across the kill chain. | Starting at ~$50,000/year (annual enterprise subscription based on deployment size) | No free tier; evaluation available via sales-guided Proof of Concept (PoC) |
+| **[AttackIQ](https://www.attackiq.com/)** | Breach and attack simulation platform built on MITRE ATT&CK, enabling continuous validation of security controls with automated attack scenarios. | Free entry tier ($0/mo); paid plans start at $300/credit or $4,995/month for Flex | Free forever plan (AttackIQ Flex with agentless exposure testing); 30-day trial for expanded testing |
+| **[Cymulate](https://cymulate.com/)** | Extended security posture management platform with BAS, automated red teaming, and attack surface validation across email, web, and endpoint vectors. | Starting at ~$1,500/month (~$7,000/year for entry modular tier) | 14-day free trial (includes full access to select attack vector evaluations) |
+| **[Picus Security](https://www.picussecurity.com/)** | Security validation platform combining BAS with threat intelligence, measuring detection and prevention effectiveness across security stack. | Starting at ~$10,000/year (entry platform tier based on attack modules) | 14-day free trial (includes access to core simulation agents and threat modules) |
+| **[XM Cyber](https://www.xmcyber.com/)** | Hybrid cloud exposure management platform simulating attack paths to critical assets, identifying and prioritizing remediation. | Starting at ~£18/unit (~$15,000/year enterprise base quote) | 14-day free trial / Proof of Value (PoV) evaluation upon sales registration |
+| **[Pentera](https://www.pentera.io/)** | Automated penetration testing platform simulating full attack chains from external and internal perspectives with actionable remediation. | Starting at ~$35,000/year (annual license scaled by IP count and environment scope) | No self-serve trial; enterprise evaluation via sales-guided Proof of Concept (PoC) |
+| **[Mandiant Security Validation](https://www.mandiant.com/)** | Advanced attack simulations backed by real-world threat intelligence. | Starting at ~$60,000/year (annual contract via Google Cloud priced per actor/agent) | No public free trial; evaluation via Google Cloud / Mandiant guided enterprise demo |
+| **[Scythe](https://scythe.io/)** | Adversary emulation platform with threat intelligence-driven attack scenarios, purple team collaboration, and detection validation. | Starting at ~$25,000/year (environment tier licensing with unlimited users and agents) | No free tier; 14-day hands-on evaluation lab accessible upon sales discovery call |
+| **[ThreatGen](https://www.threatgen.com/)** | Cyber range and attack simulation platform with gamified red team/blue team exercises for training and validation. | $14.99 one-time (Steam edition) / Starting at $49/month for Individual subscription | Free community tier (single-player tutorial & basics); 30-day trial for Business Seats |
+| **[Verodin](https://www.mandiant.com/)** | Security instrumentation platform (now part of Mandiant) validating security controls through automated attack simulations. | Starting at ~$60,000/year (integrated into Mandiant Security Validation enterprise plan) | No self-serve trial; evaluation via Mandiant / Google Cloud enterprise demo |
+| **[NodeZero](https://www.horizon3.ai/)** | Horizon3.ai's autonomous penetration testing platform discovering exploitable vulnerabilities and validating attack paths with proof-of-exploit. | $99 per target (TurboPentest ad-hoc) / Starting at ~$15,000/year (<100 IP enterprise tier) | 1 free autonomous pentest credit (or 14-day trial) upon platform registration |
+| **[Horizon3.ai](https://horizon3.ai/)** | Autonomous penetration testing platform (NodeZero) discovering exploitable vulnerabilities and validating attack paths with proof-of-exploit. | $99 per target (TurboPentest) / Starting at ~$15,000/year (NodeZero enterprise platform) | 1 free autonomous penetration test credit provided upon account setup |
 
 
 

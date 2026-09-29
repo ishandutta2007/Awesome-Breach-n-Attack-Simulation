@@ -65,45 +65,45 @@ The table below details top enterprise SaaS BAS solutions, **sorted descending b
 
 > 💡 **Community Note**: Open-source adversary emulation tools enable vendor-independent control validation, custom TTP development, and purple teaming.
 
-The list below contains top open-source projects, **sorted descending by GitHub star count**:
+The list below contains top open-source projects, **sorted descending by GitHub Stars_Count**:
 
-- **[Metasploit Framework](https://github.com/rapid7/metasploit-framework)** [![GitHub stars](https://img.shields.io/github/stars/rapid7/metasploit-framework?style=social&color=white)](https://github.com/rapid7/metasploit-framework/stargazers)  
+- **[Metasploit Framework](https://github.com/rapid7/metasploit-framework)** [![GitHub_Stars](https://img.shields.io/github/stars/rapid7/metasploit-framework?style=social&color=white)](https://github.com/rapid7/metasploit-framework/stargazers)  
   ⚡ The world's most widely used penetration testing and exploit development framework from Rapid7. Ranked #2 in an IEEE open-source adversary emulation study. Provides thousands of exploit modules, payloads, and post-exploitation scripts for simulating real-world adversary behavior.
 
-- **[Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)** [![GitHub stars](https://img.shields.io/github/stars/redcanaryco/atomic-red-team?style=social&color=white)](https://github.com/redcanaryco/atomic-red-team/stargazers)  
+- **[Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)** [![GitHub_Stars](https://img.shields.io/github/stars/redcanaryco/atomic-red-team?style=social&color=white)](https://github.com/redcanaryco/atomic-red-team/stargazers)  
   ⚡ Library of small, highly focused unit tests mapped directly to MITRE ATT&CK techniques, maintained by Red Canary. Contains over 1,600 atomic tests executed via PowerShell (`Invoke-AtomicRedTeam`) or command line to test specific detection rules.
 
-- **[MITRE Caldera](https://github.com/mitre/caldera)** [![GitHub stars](https://img.shields.io/github/stars/mitre/caldera?style=social&color=white)](https://github.com/mitre/caldera/stargazers)  
+- **[MITRE Caldera](https://github.com/mitre/caldera)** [![GitHub_Stars](https://img.shields.io/github/stars/mitre/caldera?style=social&color=white)](https://github.com/mitre/caldera/stargazers)  
   ⚡ The premier open-source automated adversary emulation platform created by MITRE. Operates a central C2 server and cross-platform agents (Sandcat) to orchestrate complex attack playbooks across all post-compromise ATT&CK tactics.
 
-- **[Infection Monkey](https://github.com/guardicore/monkey)** [![GitHub stars](https://img.shields.io/github/stars/guardicore/monkey?style=social&color=white)](https://github.com/guardicore/monkey/stargazers)  
+- **[Infection Monkey](https://github.com/guardicore/monkey)** [![GitHub_Stars](https://img.shields.io/github/stars/guardicore/monkey?style=social&color=white)](https://github.com/guardicore/monkey/stargazers)  
   ⚡ Open-source, agent-based breach simulation tool from Guardicore (Akamai). Simulates lateral movement, credential theft, and ransomware propagation across enterprise networks with automated reporting via Monkey Island.
 
-- **[CyberBattleSim](https://github.com/microsoft/CyberBattleSim)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/CyberBattleSim?style=social&color=white)](https://github.com/microsoft/CyberBattleSim/stargazers)  
+- **[CyberBattleSim](https://github.com/microsoft/CyberBattleSim)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/CyberBattleSim?style=social&color=white)](https://github.com/microsoft/CyberBattleSim/stargazers)  
   ⚡ Microsoft Research project providing an experimental Python OpenAI Gym environment for modeling and simulating automated security agent behavior using reinforcement learning.
 
-- **[APTSimulator](https://github.com/NextronSystems/APTSimulator)** [![GitHub stars](https://img.shields.io/github/stars/NextronSystems/APTSimulator?style=social&color=white)](https://github.com/NextronSystems/APTSimulator/stargazers)  
+- **[APTSimulator](https://github.com/NextronSystems/APTSimulator)** [![GitHub_Stars](https://img.shields.io/github/stars/NextronSystems/APTSimulator?style=social&color=white)](https://github.com/NextronSystems/APTSimulator/stargazers)  
   ⚡ Windows batch script from Nextron Systems that uses native tools and artifacts to simulate a compromised host state for quick endpoint security control testing.
 
-- **[Splunk Attack Range](https://github.com/splunk/attack_range)** [![GitHub stars](https://img.shields.io/github/stars/splunk/attack_range?style=social&color=white)](https://github.com/splunk/attack_range/stargazers)  
+- **[Splunk Attack Range](https://github.com/splunk/attack_range)** [![GitHub_Stars](https://img.shields.io/github/stars/splunk/attack_range?style=social&color=white)](https://github.com/splunk/attack_range/stargazers)  
   ⚡ Open-source automation tool for spinning up cloud-based instrumented environments (AWS/Azure) equipped with Splunk, Active Directory, Kali Linux, and Atomic Red Team for detection development.
 
-- **[Stratus Red Team](https://github.com/DataDog/stratus-red-team)** [![GitHub stars](https://img.shields.io/github/stars/DataDog/stratus-red-team?style=social&color=white)](https://github.com/DataDog/stratus-red-team/stargazers)  
+- **[Stratus Red Team](https://github.com/DataDog/stratus-red-team)** [![GitHub_Stars](https://img.shields.io/github/stars/DataDog/stratus-red-team?style=social&color=white)](https://github.com/DataDog/stratus-red-team/stargazers)  
   ⚡ Cloud-native adversary emulation tool from Datadog for simulating granular attack techniques against AWS, Azure, GCP, and Kubernetes environments.
 
-- **[Network Flight Simulator](https://github.com/alphasoc/flightsim)** [![GitHub stars](https://img.shields.io/github/stars/alphasoc/flightsim?style=social&color=white)](https://github.com/alphasoc/flightsim/stargazers)  
+- **[Network Flight Simulator](https://github.com/alphasoc/flightsim)** [![GitHub_Stars](https://img.shields.io/github/stars/alphasoc/flightsim?style=social&color=white)](https://github.com/alphasoc/flightsim/stargazers)  
   ⚡ Lightweight command-line utility from AlphaSoc for generating malicious network traffic (DNS tunneling, DGA, cryptomining, C2 traffic) to validate network security controls.
 
-- **[Red Team Automation (RTA)](https://github.com/endgameinc/RTA)** [![GitHub stars](https://img.shields.io/github/stars/endgameinc/RTA?style=social&color=white)](https://github.com/endgameinc/RTA/stargazers)  
+- **[Red Team Automation (RTA)](https://github.com/endgameinc/RTA)** [![GitHub_Stars](https://img.shields.io/github/stars/endgameinc/RTA?style=social&color=white)](https://github.com/endgameinc/RTA/stargazers)  
   ⚡ Script library from Endgame designed to emulate blue team detection triggers mapped to MITRE ATT&CK post-exploitation TTPs.
 
-- **[OpenBAS](https://github.com/OpenBAS-Platform/openbas)** [![GitHub stars](https://img.shields.io/github/stars/OpenBAS-Platform/openbas?style=social&color=white)](https://github.com/OpenBAS-Platform/openbas/stargazers)  
+- **[OpenBAS](https://github.com/OpenBAS-Platform/openbas)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenBAS-Platform/openbas?style=social&color=white)](https://github.com/OpenBAS-Platform/openbas/stargazers)  
   ⚡ ISO 22398 compliant open-source breach and attack simulation platform from Filigran. Simulates multi-vector security incidents, technical injects, crisis communications, and business impacts with OpenCTI integration.
 
-- **[PurpleSharp](https://github.com/mvelazc0/PurpleSharp)** [![GitHub stars](https://img.shields.io/github/stars/mvelazc0/PurpleSharp?style=social&color=white)](https://github.com/mvelazc0/PurpleSharp/stargazers)  
+- **[PurpleSharp](https://github.com/mvelazc0/PurpleSharp)** [![GitHub_Stars](https://img.shields.io/github/stars/mvelazc0/PurpleSharp?style=social&color=white)](https://github.com/mvelazc0/PurpleSharp/stargazers)  
   ⚡ C#-based adversary simulation tool designed to automate attack technique execution against Windows Active Directory environments.
 
-- **[DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)** [![GitHub stars](https://img.shields.io/github/stars/TryCatchHCF/DumpsterFire?style=social&color=white)](https://github.com/TryCatchHCF/DumpsterFire/stargazers)  
+- **[DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)** [![GitHub_Stars](https://img.shields.io/github/stars/TryCatchHCF/DumpsterFire?style=social&color=white)](https://github.com/TryCatchHCF/DumpsterFire/stargazers)  
   ⚡ Modular, menu-driven security drill tool for creating customized security events, fake incident triggers, and blue team exercises.
 
 ---
